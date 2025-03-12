@@ -69,7 +69,7 @@ export default function Home() {
 
                 <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-[90%] h-[90%] bg-white dark:bg-card rounded-xl shadow-xl overflow-hidden border border-border">
                   <Image
-                    src="/placeholder.svg?height=800&width=800"
+                    src="/music-producer-working-on-beats.jpg"
                     alt="Music producer working on beats"
                     fill
                     className="object-cover"
@@ -370,7 +370,7 @@ const featuredBeats = [
     genre: "Chill & Ambient",
     duration: "00:08",
     price: 12,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat1.jpg",
     audioUrl: "https://example.com/audio/midnight-vibes.mp3",
   },
   {
@@ -379,7 +379,7 @@ const featuredBeats = [
     genre: "Electronic & Dance",
     duration: "00:12",
     price: 15,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat2.jpg",
     audioUrl: "https://example.com/audio/electric-dreams.mp3",
   },
   {
@@ -388,7 +388,7 @@ const featuredBeats = [
     genre: "Pop & Upbeat",
     duration: "00:10",
     price: 10,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat3.jpg",
     audioUrl: "https://example.com/audio/sunny-grooves.mp3",
   },
   {
@@ -397,7 +397,7 @@ const featuredBeats = [
     genre: "Hip-Hop & Trap",
     duration: "00:15",
     price: 18,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat4.jpg",
     audioUrl: "https://example.com/audio/urban-jungle.mp3",
   },
 ]
@@ -409,7 +409,7 @@ const newReleases = [
     genre: "Electronic & Dance",
     duration: "00:11",
     price: 14,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat5.jpg",
     audioUrl: "https://example.com/audio/neon-lights.mp3",
   },
   {
@@ -418,7 +418,7 @@ const newReleases = [
     genre: "Chill & Ambient",
     duration: "00:09",
     price: 12,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat6.jpg",
     audioUrl: "https://example.com/audio/sunset-boulevard.mp3",
   },
   {
@@ -427,7 +427,7 @@ const newReleases = [
     genre: "Urban & Afrobeat",
     duration: "00:14",
     price: 16,
-    imageUrl: "/placeholder.svg?height=400&width=400",
+    imageUrl: "/beat7.jpg",
     audioUrl: "https://example.com/audio/city-rhythm.mp3",
   },
 ]
@@ -436,37 +436,37 @@ const genres = [
   {
     id: "hip-hop-trap",
     name: "Hip-Hop & Trap",
-    imageUrl: "/placeholder.svg?height=400&width=600",
+    imageUrl: "/beat8.jpg",
     count: 48,
   },
   {
     id: "pop-upbeat",
     name: "Pop & Upbeat",
-    imageUrl: "/placeholder.svg?height=400&width=600",
+    imageUrl: "/beat9.jpg",
     count: 36,
   },
   {
     id: "electronic-dance",
     name: "Electronic & Dance",
-    imageUrl: "/placeholder.svg?height=400&width=600",
+    imageUrl: "/beat10.jpg",
     count: 42,
   },
   {
     id: "chill-ambient",
     name: "Chill & Ambient",
-    imageUrl: "/placeholder.svg?height=400&width=600",
+    imageUrl: "/beat1.jpg",
     count: 29,
   },
   {
     id: "urban-afrobeat",
     name: "Urban & Afrobeat",
-    imageUrl: "/placeholder.svg?height=400&width=600",
+    imageUrl: "/beat2.jpg",
     count: 31,
   },
   {
     id: "cinematic-instrumental",
     name: "Cinematic & Instrumental",
-    imageUrl: "/placeholder.svg?height=400&width=600",
+    imageUrl: "/beat3.jpg",
     count: 24,
   },
 ]

@@ -75,55 +75,55 @@ const genresList = [
     id: "afrobeat",
     name: "Afrobeat",
     beatCount: 245,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat1.jpg",
   },
   {
     id: "amapiano",
     name: "Amapiano",
     beatCount: 178,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat2.jpg",
   },
   {
     id: "highlife",
     name: "Highlife",
     beatCount: 120,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat3.jpg",
   },
   {
     id: "afro-house",
     name: "Afro House",
     beatCount: 156,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat4.jpg",
   },
   {
     id: "dancehall",
     name: "Dancehall",
     beatCount: 187,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat5.jpg",
   },
   {
     id: "traditional",
     name: "Traditional",
     beatCount: 94,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat6.jpg",
   },
   {
     id: "afro-pop",
     name: "Afro Pop",
     beatCount: 215,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat7.jpg",
   },
   {
     id: "afro-trap",
     name: "Afro Trap",
     beatCount: 132,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat8.jpg",
   },
   {
     id: "afro-fusion",
     name: "Afro Fusion",
     beatCount: 108,
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/beat9.jpg",
   },
 ]
 
@@ -133,13 +133,13 @@ const genreMixes = [
     description:
       "Experience the beautiful blend of Nigerian Afrobeat rhythms with South African Amapiano vibes in this unique collection.",
     tags: ["Fusion", "Cross-Genre", "Modern"],
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/beat1.jpg",
   },
   {
     title: "Traditional Meets Electronic",
     description: "Ancient African instruments and rhythms reimagined with modern electronic production techniques.",
     tags: ["Traditional", "Electronic", "Experimental"],
-    image: "/placeholder.svg?height=300&width=400",
+    image: "/beat2.jpg",
   },
 ]
 
